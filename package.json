@@ -1,0 +1,11 @@
+{
+  "name": "authex",
+  "version": "1.0.0",
+  "description": "Regex authorization system, Who? Where? and for What?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Karami",
+  "license": "ISC"
+}
