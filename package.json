@@ -1,6 +1,6 @@
 {
   "name": "authex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Regex authorization system, Who? Where? and for What?",
   "main": "authex.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "authorization",
     "authorize",
     "regex",
+    "regular expression",
     "who",
     "where",
     "forwhat"

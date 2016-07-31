@@ -1,6 +1,6 @@
 [![NPM](https://nodei.co/npm/authex.png)](https://nodei.co/npm/authex/)
 
-# RegEx Authorization
+# Regular Expression Authorization
 ##Authorize your users: Who? Where? and for What?
 
 this readme file is going to be full :D
