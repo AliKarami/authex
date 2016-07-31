@@ -1,16 +1,30 @@
 {
   "name": "authex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Regex authorization system, Who? Where? and for What?",
-  "main": "index.js",
+  "main": "authex.js",
   "scripts": {
+    "start": "node authex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ali Karami",
-  "license": "ISC",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/authex",
+  "author": {
+    "name": "Ali Karami",
+    "email": "ali.karami.m@gmail.com"
+  },
+  "_npmUser": {
+    "email": "ali.karami.m@gmail.com",
+    "name": "ali_karami"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AliKarami/authex.git"
+  },
+  "directories": {
+    "lib": "lib"
   },
   "keywords": [
     "authorization",
@@ -18,10 +32,14 @@
     "regex",
     "who",
     "where",
-    "what"
+    "forwhat"
   ],
   "bugs": {
     "url": "https://github.com/AliKarami/authex/issues"
   },
-  "homepage": "https://github.com/AliKarami/authex#readme"
+  "homepage": "https://github.com/AliKarami/authex#readme",
+  "dependencies": {
+    "jsonfile": "^2.3.1",
+    "underscore": "^1.8.3"
+  }
 }
