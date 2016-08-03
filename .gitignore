@@ -1,8 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
-/tests/mochaTest.js
+/tests/configTest.js
 examples/
 node_modules/
 tests/
 lib/~map.json
+/lib/userschema.js
