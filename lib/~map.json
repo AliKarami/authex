@@ -1,0 +1,27 @@
+{
+  "place": [
+    {
+      "tehran": 11,
+      "yazd": 12,
+      "esfehan": 13,
+      "bushehr": 14
+    },
+    {
+      "shomal": 1,
+      "jonub": 2,
+      "gharb": 3,
+      "shargh": 4
+    },
+    {
+      "kudakan": 10,
+      "nojavanan": 11,
+      "javanan": 12,
+      "bozorgsal": 13
+    }
+  ],
+  "cap": {
+    "writepost": 100,
+    "likeposts": 101,
+    "readposts": 102
+  }
+}

@@ -5,5 +5,5 @@
 examples/
 node_modules/
 tests/
-lib/~map.json
 /lib/userschema.js
+/npm-debug.log

@@ -1,2 +1,2 @@
-var app = require('./lib/bundled');
-module.exports = app;
+var authex = require('./lib/bundled');
+module.exports = authex;

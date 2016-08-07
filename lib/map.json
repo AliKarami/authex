@@ -1,5 +1,5 @@
 {
-    "where": [
+    "place": [
         {
             "tehran": 11,
             "yazd": 12,
@@ -19,7 +19,7 @@
             "bozorgsal": 13
         }
     ],
-    "what": {
+    "cap": {
         "writepost": 100,
         "likeposts": 101,
         "readposts": 102
