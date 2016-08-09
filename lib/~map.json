@@ -23,5 +23,30 @@
     "writepost": 100,
     "likeposts": 101,
     "readposts": 102
+  },
+  "iplace": [
+    {
+      "11": "tehran",
+      "12": "yazd",
+      "13": "esfehan",
+      "14": "bushehr"
+    },
+    {
+      "1": "shomal",
+      "2": "jonub",
+      "3": "gharb",
+      "4": "shargh"
+    },
+    {
+      "10": "kudakan",
+      "11": "nojavanan",
+      "12": "javanan",
+      "13": "bozorgsal"
+    }
+  ],
+  "icap": {
+    "100": "writepost",
+    "101": "likeposts",
+    "102": "readposts"
   }
 }
